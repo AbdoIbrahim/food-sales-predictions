@@ -20,7 +20,7 @@ The Data conisited of a total of 12 columns with various information. This inclu
 12. Item_Outlet_Sales 
 
 ### Methods
-The Data preparation steps I used were to first explore the Dataset using pandasas well as data visualization tools like matplotlib and seaborn to explore the Dataset. After my initial exploration I determined that total outlet sales was my target for prediction. I used the other features to predict the future data by using the sklearn tool. After throughly analyzing the data I realized that the hyperparameters needed to be tuned in order to improve the models' accuracy.
+The Data preparation steps I used were to first explore the Dataset using pandas as well as data visualization tools like matplotlib and seaborn to explore the Dataset. After my initial exploration I determined that total outlet sales was my target for prediction. I used the other features to predict the future data by using the sklearn tool. After throughly analyzing the data I realized that the hyperparameters needed to be tuned in order to improve the models' accuracy.
 
 
 
